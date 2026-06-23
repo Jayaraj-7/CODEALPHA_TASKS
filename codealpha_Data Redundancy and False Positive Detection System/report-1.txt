@@ -1,0 +1,22 @@
+DATA VALIDATION AND REDUNDANCY REMOVAL SYSTEM
+
+Objective:
+To identify redundant data, validate new entries, and ensure only unique records are stored.
+
+Tools Used:
+- Python
+- Pandas
+- CSV Database
+
+Features:
+1. Detect duplicate IDs.
+2. Detect duplicate email addresses.
+3. Prevent redundant records.
+4. Store only verified data.
+5. Improve database accuracy and efficiency.
+
+Results:
+The system successfully identifies duplicate entries and allows only unique data into the database.
+
+Conclusion:
+Data redundancy is reduced and database integrity is maintained.

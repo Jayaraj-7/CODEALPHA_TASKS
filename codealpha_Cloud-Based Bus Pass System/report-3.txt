@@ -1,0 +1,23 @@
+CLOUD-BASED BUS PASS SYSTEM REPORT
+
+Objective:
+To develop an online bus pass booking system that manages passenger bookings efficiently.
+
+Tools Used:
+- Python 3
+
+Features:
+1. Online Bus Pass Booking
+2. Booking Management
+3. Fixed and Accurate Pricing
+4. Ticket Loss Prevention through Digital Records
+5. Scalable Cloud-Ready Design
+
+Advantages:
+- Reduces manual work
+- Prevents ticket loss
+- Maintains booking records
+- Improves reliability
+
+Conclusion:
+The system successfully simulates a cloud-based bus pass booking platform with secure booking records and accurate pricing.
